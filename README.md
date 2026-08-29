@@ -104,5 +104,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>Amey Phadke</strong>
+  Made with ❤️ by <strong>Amey</strong>
 </p>
